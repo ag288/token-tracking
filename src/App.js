@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import { TrackingPage } from './TrackingPage';
+import { TrackingPage } from './Trackingpage';
 
 
 function App() {
